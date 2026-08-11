@@ -1,0 +1,79 @@
+# ================================
+# Dependencies
+# ================================
+node_modules/
+**/node_modules/
+
+
+# ================================
+# Environment / Secrets
+# ================================
+.env
+.env.*
+*.env
+
+# Allow example environment files
+!.env.example
+!**/.env.example
+
+
+# ================================
+# Next.js
+# ================================
+frontend/.next/
+frontend/out/
+frontend/build/
+
+
+# ================================
+# Backend Build
+# ================================
+backend/dist/
+backend/build/
+dist/
+build/
+
+
+# ================================
+# Logs
+# ================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+
+# ================================
+# OS Files
+# ================================
+.DS_Store
+Thumbs.db
+
+
+# ================================
+# IDE / Editor
+# ================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# ================================
+# Temporary Files
+# ================================
+*.tmp
+*.temp
+*.cache
+
+
+# ================================
+# Coverage
+# ================================
+coverage/
+.nyc_output/
