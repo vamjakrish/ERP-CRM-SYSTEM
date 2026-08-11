@@ -8,15 +8,17 @@ A complete, production-quality full-stack operations portal built for a wholesal
 
 ## 📸 Screenshots
 
-![Dashboard](screenshot/s1.png)
+![Login](screenshot/ss0.png)
 
-![CRM](screenshot/s2.png)
+![Dashboard](screenshot/ss1.png)
 
-![Inventory](screenshot/s3.png)
+![CRM](screenshot/ss2.png)
 
-![Sales Challans](screenshot/s4.png)
+![Inventory](screenshot/ss3.png)
 
-![Sales Challans2](screenshot/s5.png)
+![Sales Challans](screenshot/ss4.png)
+
+![Sales Challans2](screenshot/ss5.png)
 
 ## 🚀 Key Features
 
