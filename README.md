@@ -4,7 +4,7 @@ A complete, production-quality full-stack operations portal built for a wholesal
 
 ## 🚀 Live Demo
 
-**Live Application:** https://erp-crm-harshintech.vercel.app
+**Live Application:** https://erp-crm-system-lilac.vercel.app
 
 ## 📸 Screenshots
 
